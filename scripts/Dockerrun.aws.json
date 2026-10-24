@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "fabianofsc/nexus-shopping:latest",
+    "Name": "fabianofsc/nexus-shopping:aws-ebt",
     "Update": "true"
   },
   "Ports": [
